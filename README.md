@@ -1,4 +1,4 @@
-![我的个人主页](https://xbchub.github.io/)
+[我的个人主页](https://xbchub.github.io/)
 
 # VHDLCourseDesign
 基于FPGA的最小值次小值不同算法求解、不同排序算法、使用OLED显示屏输出结果
