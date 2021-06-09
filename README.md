@@ -64,7 +64,7 @@ OLED显示模块根据获取的输入数据、最小值次小值结果或排序�
 
 显示状态转换图：
 
-![image](https://user-images.githubusercontent.com/60500670/110566419-f91f9a80-818a-11eb-8084-52c9dc6d3f6c.png)
+![OLED流程图.png](https://i.loli.net/2021/06/09/cKWB4hOlSm2AJfC.png)
 
 
 ### 资源占用
